@@ -202,22 +202,6 @@ a {
   height: 90%;
 }
 
-/* Scrollbar customisation */
-
-#fav-movies-container::-webkit-scrollbar {
-  width: 5px;
-}
-
-/* Track */
-#fav-movies-container::-webkit-scrollbar-track {
-  border-radius: 20px;
-}
-
-/* Handle */
-#fav-movies-container::-webkit-scrollbar-thumb {
-  border-radius: 20px;
-}
-
 .fav-movie-card {
   padding-right: 1rem;
   width: 95%;
